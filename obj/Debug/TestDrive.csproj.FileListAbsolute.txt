@@ -1,0 +1,8 @@
+C:\UnityProjects\TestDrive\obj\Debug\TestDrive.csproj.AssemblyReference.cache
+C:\UnityProjects\TestDrive\obj\Debug\TestDrive.csproj.SuggestedBindingRedirects.cache
+C:\UnityProjects\TestDrive\obj\Debug\TestDrive.csproj.CoreCompileInputs.cache
+C:\UnityProjects\TestDrive\bin\Debug\TestDrive.exe.config
+C:\UnityProjects\TestDrive\bin\Debug\TestDrive.exe
+C:\UnityProjects\TestDrive\bin\Debug\TestDrive.pdb
+C:\UnityProjects\TestDrive\obj\Debug\TestDrive.exe
+C:\UnityProjects\TestDrive\obj\Debug\TestDrive.pdb
