@@ -188,7 +188,7 @@ namespace TestDrive
 
             bool isAbleToPay;
 
-            Console.WriteLine($"Кристалов покупаете? Цена за шутку - {priceOneCrystal} золотых.\n");
+            Console.WriteLine($"Кристалов покупаете? Цена за штуку - {priceOneCrystal} золотых.\n");
 
             Console.Write("Сколько у Вас золота? ");
             goldInWallet = Convert.ToInt32(Console.ReadLine());
